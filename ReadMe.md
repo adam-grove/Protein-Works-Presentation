@@ -1,5 +1,5 @@
 # Structure of this project 
-**Data Cleaning** - Jupyter Notebook for Data Cleaning
+**Data Cleaning.ipynb** - Jupyter Notebook for Data Cleaning
 
 **Marketing_Cleaned.csv** - Cleaned Marketing Data 
 
